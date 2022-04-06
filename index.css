@@ -1,0 +1,93 @@
+body {
+    background-color: #e5ffdb;
+    color: rgb(10, 87, 27);
+    background-image: url( baloons-left.png), url( baloons-right.png);
+    width: 100%;
+    height: 70%;
+    background-position: left, right;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-attachment: fixed;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.title_1 {
+    font-size:3em;
+    margin-top: -70px;
+}
+
+.Introduction {
+    /* padding-top: 1px; */
+    padding-bottom: 20px;
+    width: 40%;
+    height: 80%;
+    font-size: 3em;
+    text-align: center;
+}
+ 
+
+.Navbar a{
+    background-color: white;
+    color: rgb(10, 87, 27) !important;
+    font-size: 1.5em;
+}
+
+.marquee {
+    font-size: 4.5em;
+    font-style: bold;
+    margin-top: 400px;
+    width: 65%;
+}
+
+.body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-image: url(leaves.png);
+    background-position:  left;
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+    height: 100%;
+    }
+    
+    .title2 {
+        font-size: 45px !important; 
+    }
+    
+    .text {
+    border: 5px solid rgb(56, 158, 78);
+    font-size: 60px;
+    margin-top: 250px;
+    margin-right: 180px;
+    float: right;
+    text-align: center;
+    color: rgb(10, 87, 27);
+    width: 35%;
+    }
+    
+    .text2 {
+    border: 5px solid rgb(56, 158, 78);
+    font-size: 55px;
+    margin-top: 200px;
+    margin-right: 180px;
+    float: right;
+    text-align: center;
+    color: rgb(10, 87, 27);
+    width: 35%;
+    padding: -10px 0;
+    }
+
+    .img-cupcake {
+        margin-top: 200px;
+        margin-left: 320px;
+    }
+
+    .img-DJ {
+        margin-top: 200px;
+        margin-left: 50px;
+    }
+
+    .img-limbo {
+        margin-left: 120px;
+        margin-top: 250px;
+    }
